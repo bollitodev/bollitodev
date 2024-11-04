@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hi, I'm Daniel Ramos!
 
+
+👨🏽‍💻 Software Engineer learning about code and life<br/>
+👨🏽‍🎓 Studied Software Engineering at the TECNM Mexicali<br/>
+💭 Currently learning about Full stack web development<br/>
+🚀 Curious about Computer Vision<br/>
+
+![Daniel Ramos's GitHub stats](https://github-readme-stats.vercel.app/api?username=bollitodev&show_icons=true&theme=transparent)
 <!--
 **bollitodev/bollitodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
