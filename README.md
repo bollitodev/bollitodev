@@ -4,9 +4,10 @@ I'm a passionate software engineer with a love for coding and exploring new tech
 
 - **💻 Current Focus:** Full-stack web development  
 - **🎓 Education:** Software Engineering at TECNM Mexicali  
-- **🌟 Interests:**  
-  - Computer Vision  
+- **🌟 Interests:**
+  - Backend systems
   - Building interactive web applications  
+  - Computer Vision  
   - Learning about AI and machine learning  
 
 ---
