@@ -3,7 +3,7 @@
 I'm a passionate software engineer with a love for coding and exploring new technologies.
 
 - **💻 Current Focus:** Backend web development  
-- **🎓 Education:** Software Engineering at TECNM Mexicali  
+- **🎓 Education:** Software Engineering at TECNM Mexicali and Masters Degree related to ML
 - **🌟 Interests:**
   - Backend systems
   - Building interactive web applications  
