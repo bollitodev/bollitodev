@@ -2,7 +2,7 @@
 
 I'm a passionate software engineer with a love for coding and exploring new technologies.
 
-- **💻 Current Focus:** Full-stack web development  
+- **💻 Current Focus:** Backend web development  
 - **🎓 Education:** Software Engineering at TECNM Mexicali  
 - **🌟 Interests:**
   - Backend systems
@@ -13,10 +13,10 @@ I'm a passionate software engineer with a love for coding and exploring new tech
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python  
-- **Frameworks:** React, FastAPI, Flask  
-- **Databases:** MySQL, MongoDB, PostgreSQL 
-- **Tools:** Git, Docker, Visual Studio Code, NeoVIM 
+- **Languages:** Python, Go 
+- **Frameworks:** FastAPI, Flask  
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Git, Docker, NeoVIM 
 
 <!--
 ---
